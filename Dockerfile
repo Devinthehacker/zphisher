@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:12.6
 LABEL MAINTAINER="https://github.com/htr-tech/zphisher"
 
 WORKDIR /zphisher/
